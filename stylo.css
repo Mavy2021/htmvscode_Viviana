@@ -1,0 +1,37 @@
+#foto_portada{
+    width: 80%;width: auto;
+}
+#icono_compra{
+    image-rendering: right;
+    flex-direction: column;position: relative;left:40%;    
+}
+body{
+    background-color: azure;
+    }
+header{
+text-align: center;
+text-decoration: brown;
+text-align: center;
+color: rgb(112, 73, 112);
+}
+main{
+    background-color: azure;
+    color: rgb(112, 73, 112);
+}
+footer{
+    background-color: rgb(232, 236, 232);
+}
+.fotos_productos{
+    width: 40%;
+    
+}
+.contenedor{
+    display: flex;
+}
+.redes_sociales{
+    image-rendering: right;
+    flex-direction: column;position: relative;left:40%;
+}
+
+
+    

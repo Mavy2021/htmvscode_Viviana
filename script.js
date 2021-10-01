@@ -1,0 +1,1 @@
+document.querySelector("#swiper-carousel-161667985761081bde > div.swiper-wrapper.swiper-wrapper-161667985761081bde > div:nth-child(5) > div > div.product-details")
